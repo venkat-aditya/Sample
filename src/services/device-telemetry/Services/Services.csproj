@@ -4,7 +4,7 @@
         <RootNamespace>$(AssemblyName)</RootNamespace>
     </PropertyGroup>
     <ItemGroup>
-        <PackageReference Include="Newtonsoft.Json.Schema" Version="3.0.11" />
+        <PackageReference Include="Newtonsoft.Json.Schema" Version="3.0.13" />
     </ItemGroup>
     <ItemGroup>
         <ProjectReference Include="..\..\common\Services\Services.csproj" />
