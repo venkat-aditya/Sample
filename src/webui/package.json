@@ -15,7 +15,7 @@
         "cross-env": "^6.0.3",
         "dot-object": "1.7.0",
         "i18next": "12.1.0",
-        "i18next-browser-languagedetector": "2.2.4",
+        "i18next-browser-languagedetector": "5.0.0",
         "i18next-xhr-backend": "1.5.1",
         "immutability-helper": "2.8.1",
         "jstz": "^2.1.1",
