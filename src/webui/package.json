@@ -10,7 +10,7 @@
         "adal-angular": "1.0.17",
         "ag-grid-community": "19.1.4",
         "ag-grid-react": "19.1.2",
-        "angular-oauth2-oidc": "^8.0.4",
+        "angular-oauth2-oidc": "^10.0.1",
         "azure-storage": "^2.10.3",
         "cross-env": "^6.0.3",
         "dot-object": "1.7.0",
